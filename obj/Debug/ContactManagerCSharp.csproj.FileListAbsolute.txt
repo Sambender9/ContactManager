@@ -1,0 +1,141 @@
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\ContactManagerCSharp.dll.config
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\ContactManagerCSharp.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\ContactManagerCSharp.pdb
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Antlr3.Runtime.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\EntityFramework.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\EntityFramework.SqlServer.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Newtonsoft.Json.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Owin.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Helpers.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Mvc.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Optimization.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Razor.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.Deployment.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.Razor.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\WebGrease.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Helpers.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Mvc.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Optimization.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.Razor.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.Deployment.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\System.Web.WebPages.Razor.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Newtonsoft.Json.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Antlr3.Runtime.pdb
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\EntityFramework.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\EntityFramework.SqlServer.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.csprojResolveAssemblyReference.cache
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.dll
+c:\users\edward\documents\visual studio 2013\Projects\ContactManagerCSharp\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.pdb
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\ContactManagerCSharp.dll.config
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\ContactManagerCSharp.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\ContactManagerCSharp.pdb
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Antlr3.Runtime.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\EntityFramework.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\EntityFramework.SqlServer.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Newtonsoft.Json.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Owin.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Helpers.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Mvc.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Optimization.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Razor.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\WebGrease.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Helpers.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Mvc.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Optimization.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.Razor.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Newtonsoft.Json.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Antlr3.Runtime.pdb
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\EntityFramework.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\EntityFramework.SqlServer.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.dll
+C:\Users\Renee\Documents\Visual Studio 2013\Projects\Contact\ContactManagerCSharp\obj\Debug\ContactManagerCSharp.pdb
+C:\Users\Renee\Desktop\ContactCSharp\bin\ContactManagerCSharp.dll.config
+C:\Users\Renee\Desktop\ContactCSharp\bin\ContactManagerCSharp.dll
+C:\Users\Renee\Desktop\ContactCSharp\bin\ContactManagerCSharp.pdb
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.Helpers.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.Mvc.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.Optimization.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.Razor.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.WebPages.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Newtonsoft.Json.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Antlr3.Runtime.pdb
+C:\Users\Renee\Desktop\ContactCSharp\bin\EntityFramework.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\EntityFramework.SqlServer.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Renee\Desktop\ContactCSharp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Renee\Desktop\ContactCSharp\obj\Debug\ContactManagerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Renee\Desktop\ContactCSharp\obj\Debug\ContactManagerCSharp.dll
+C:\Users\Renee\Desktop\ContactCSharp\obj\Debug\ContactManagerCSharp.pdb

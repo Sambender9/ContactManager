@@ -1,0 +1,15 @@
+﻿@model ContactManagerCSharp.Models.Person
+<body background="http://wallpicshd.com/wp-content/uploads/2013/06/Animal-Horse-08-HD-Wallpaper.jpg">
+    <h2>Add Contact</h2>
+        <form method="post">
+            <strong style="font-size: 100%">
+                Name:       @Html.TextBoxFor(x => x.Name)
+                Address:    @Html.TextBoxFor(x => x.Address)
+                Phone # :   @Html.TextBoxFor(x => x.PhoneNumber)
+                Pic URL:    @Html.TextBoxFor(x => x.Picture)
+                ID #:       @Html.TextBoxFor(x => x.ID)
+        </strong>
+        <input type="submit" value="Send" />
+    </form>
+    <a href="/Home"><strong style="font-size: 150%">Back to Home Page</strong></a>
+</body>

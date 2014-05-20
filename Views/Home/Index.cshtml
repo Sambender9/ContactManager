@@ -1,0 +1,28 @@
+﻿@model ContactManagerCSharp.Models.HomeVM
+<body background="http://pxwallpaper.com/wp-content/uploads/2013/12/white-tiger-wallpaper-hd.jpg">
+    <strong style="font-size: 100%;">
+        @*<a href="/Home/AddContact"><strong style="font-size: 200%">Add Contact</strong></a> This is kind of redundant, we dont really need it*@
+        <table class="table table-responsive">
+            @foreach (var person in Model.People)
+            {
+                <tr>
+                        <td><font color="Chartreuse ">NAME</font></td>
+                        <td><font color="RoyalBlue">PHONE NUMBER</font></td>
+                        <td><font color="Aqua">ADDRESS</font></td>
+                        <td><font color="DarkBlue">PICTURE</font></td>
+                        <td><font color="DarkBlue">ID</font></td>
+                </tr>
+                <tr>
+                    <td>@person.Name</td>
+                    <td>@person.Address</td>
+                    <td>@person.PhoneNumber</td>
+                    <td><img src="@person.Picture" width="200px" height="175px" /></td>
+                    <td>@person.ID</td>
+
+                    <td><a href="/Home/DeleteContact/@person.ID"><font color="red">Delete Contact</font></a></td>
+                    <td><a href="/Home/UpdateContact/@person.ID"><font color="green">Update Contact</font></a></td>
+                </tr>
+            }
+        </table>
+        </strong>
+</body>
